@@ -14,7 +14,7 @@ This is my take on the Genesis 2X Controller to USB Adapter, powered by [DaemonB
 ## Parts
 
 DB9 Ports
-- https://www.aliexpress.com/item/4000028938823.html (Choose the DR9 option)
+- https://www.aliexpress.com/item/4000028938823.html (Choose the DR9, Male option)
 
 Arduino Pro Micro 5V/16MHz Version (basically search "pro micro 5v 16mhz" in Amazon)
 - https://www.amazon.com/dp/B08THVMQ46
