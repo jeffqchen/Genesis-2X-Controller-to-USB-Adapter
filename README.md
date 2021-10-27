@@ -49,11 +49,13 @@ Suggested settings:
 
 Trim all the extra stubs from the PCB.
 
-Remove the screws and the face plate on the DB9 port. Keep the two metal leads behind the port so you could later solder them down to hold the port better.
-<img src="./Pics/10.jpg" width="400px" />
+Loosen the screws on both sides of the DB9 ports, but don't remove them yet.
 
 Solder in the DB9 ports first. Then the Pro Micro on the other side with the pin headers. Trim the protruding pin header pins on the other side of the PCB. Otherwise you won't be able to fit the assembly into the shell.
 
+Remove the screws and the face plate from the DB9 port. Otherwise you won't be able to fit the assembly into the shell.
+
+<img src="./Pics/10.jpg" width="400px" />
 <img src="./Pics/09.jpg" width="400px" />
 
 Finally, slide the assembly into the printed shell, and screw it shut with two sets of M2x20mm hex screws and nuts.
