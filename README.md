@@ -18,8 +18,7 @@ DB9 Ports
 
 Arduino Pro Micro 5V/16MHz Version (basically search "pro micro 5v 16mhz" in Amazon)
 - https://www.amazon.com/dp/B08THVMQ46
-- https://www.amazon.com/dp/B07FXCTVQP
-
+- https://www.amazon.com/dp/B01B26MAR6
 
 PCB
 - https://oshpark.com/shared_projects/lUJ4HBFS
@@ -39,7 +38,7 @@ Print the two halves of the shell in their original orientation.
 
 Suggested settings:
 - 0.16 layer height
-- 0.34 line width
+- 0.35 line width
 - With support
 
 -----------
@@ -50,10 +49,10 @@ Suggested settings:
 
 Trim all the extra stubs from the PCB.
 
-Remove the screws on the DB9 port. Keep the two metal leads behind the port so you could later solder them down to hold the port better.
+Remove the screws and the face plate on the DB9 port. Keep the two metal leads behind the port so you could later solder them down to hold the port better.
 <img src="./Pics/10.jpg" width="400px" />
 
-Solder in the DB9 ports first. Then the Pro Micro on the other side with the pin headers. Trim the protruding pin header pins on the other side of the PCB.
+Solder in the DB9 ports first. Then the Pro Micro on the other side with the pin headers. Trim the protruding pin header pins on the other side of the PCB. Otherwise you won't be able to fit the assembly into the shell.
 
 <img src="./Pics/09.jpg" width="400px" />
 
