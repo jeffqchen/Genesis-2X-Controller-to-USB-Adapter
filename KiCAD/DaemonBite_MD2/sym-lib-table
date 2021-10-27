@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DaemonBite_MD2)(type Legacy)(uri ${KIPRJMOD}/DaemonBite_MD2.lib)(options "")(descr ""))
+)
