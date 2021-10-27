@@ -26,7 +26,7 @@ PCB
 [2x] M2x20mm Hex Screw & Nut
 - https://www.amazon.com/gp/product/B014OO5KQG
 
-[2x] 2.54mm Pitch Pin Header, Single Row - 12 pin on each side (Search on Amazon)
+[2x] 2.54mm Pitch Pin Header, Square Pins, Single Row - 12 pins on each side (Search on Amazon)
 
 3D Printed Shell
 
