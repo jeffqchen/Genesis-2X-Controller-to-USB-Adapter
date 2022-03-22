@@ -13,22 +13,17 @@ This is my take on the Genesis 2X Controller to USB Adapter, powered by [DaemonB
 
 ## Parts
 
-DB9 Ports
-- https://www.aliexpress.com/item/4000028938823.html (Choose the DR9, Male option)
+- [PCB](https://oshpark.com/shared_projects/lUJ4HBFS)
 
-Arduino Pro Micro 5V/16MHz Version (basically search "pro micro 5v 16mhz" in Amazon)
-- https://www.amazon.com/dp/B08THVMQ46
-- https://www.amazon.com/dp/B01B26MAR6
+- DB9 Ports (Choose the DR9, Male option) - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/DB9/Male%20PCB/info.md)
 
-PCB
-- https://oshpark.com/shared_projects/lUJ4HBFS
+- Arduino Pro Micro 5V/16MHz Version - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Pro%20Micro/5V%2016MHz/info.md)
 
-[2x] M2x20mm Hex Screw & Nut
-- https://www.amazon.com/gp/product/B014OO5KQG
+- [2x] 2.54mm Pitch Pin Header, Square Pins, Single Row - 12 pins on each side - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Straight/info.md)
 
-[2x] 2.54mm Pitch Pin Header, Square Pins, Single Row - 12 pins on each side (Search on Amazon)
+- [2x] M2x20mm Hex Screw & Nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-3D Printed Shell
+- 3D Printed Shell
 
 ---------
 
